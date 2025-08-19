@@ -9,56 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+* Ph.D. in Statistics, The Chinese University of Hong Kong, 09/2015 - 07/2019
+* B.S. in Mathematics, Hua Luogeng Class, Shandong University, 09/2011 - 07/2015
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Academic experience
+* Postdoc, Department of Biostatistics, University of Michigan, 03/2022 - 07/2025
+  * Advisor: [Xiang Zhou](https://xiangzhou.github.io/)
+* Postdoc, Department of Biostatistics, St. Jude Children's Research Hospital, 08/2019 - 03/2022
+  * Advisors: [Yimei Li](https://www.stjude.org/directory/l/yimei-li.html), [Zhao-Hua Lu](https://www.linkedin.com/in/zhaohua-lu-79367816)
+  * Mentors: [Wilburn E. Reddick](https://www.stjude.org/directory/r/wilburn-reddick.html), [Heather Conklin](https://www.stjude.org/directory/c/heather-conklin.html), [Cheng Cheng](https://www.stjude.org/directory/c/cheng-cheng.html)
+* Visiting Student in Statistics, AMSS, CAS, 09/2018 - 06/2019
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Contact Information
+* Email: jadewang@tamu.edu
+* Office: 406D Blocker Building, College Station, TX
