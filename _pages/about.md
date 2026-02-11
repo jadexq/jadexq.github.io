@@ -19,7 +19,7 @@ I am Jade (Xiaoqing) Wang, and I am a tenure-track assistant professor in the De
 * And, high-dimensional spatial models, AI agents, 3D reconstruction and data analysis, nonhomogeneous Poisson process, mediation analysis, longitudinal data, latent variable models, multi-modality data integration, Bayesian methods.
 
 ### Open Positions
-I can recruit PhD students for the incoming 2026 Fall admission cycle. Students with strong interests and related background are welcome to contact me preferably in Feb (no later than Mar) 2026. Please send a brief description of your research interests and motivation, CV (preferably with names of your references), and transcripts to jadewang@tamu.edu. 
+I can recruit a PhD student for the incoming 2026 Fall admission cycle. Students with strong interests and related background are welcome to contact me preferably in Feb (no later than Mar) 2026. Please send a brief description of your research interests and motivation, CV (preferably with names of your references), and transcripts to jadewang@tamu.edu. 
 
 Students and researchers interested in working with me as a postdoc fellow or research assistant are also welcome to reach out. 
 
