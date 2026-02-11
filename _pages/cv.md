@@ -22,6 +22,9 @@ redirect_from:
   * Mentors: [Wilburn E. Reddick](https://www.stjude.org/directory/r/wilburn-reddick.html), [Heather Conklin](https://www.stjude.org/directory/c/heather-conklin.html), [Cheng Cheng](https://www.stjude.org/directory/c/cheng-cheng.html)
 * Visiting Student in Statistics, AMSS, CAS, 09/2018 - 06/2019
 
+## Funding
+* Tinker Research Grant, $5,000,  2025 Nov - 2026 Nov
+
 ## Contact Information
 * Email: jadewang@tamu.edu
 * Office: 406D Blocker Building, College Station, TX
